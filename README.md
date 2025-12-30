@@ -1,16 +1,43 @@
-## Hi there 👋
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1 align="center">
+        Hey there! I'm Fevzi
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30"/>
+      </h1>
+    </summary>
+    <summary>
+      <h2 align="center">
+        Co-Founder & CAIO at <a href="https://github.com/Fizifix">Fizifix</a>
+        <br/>
+        Computer Vision & Deep Learning Engineer
+      </h2>
+    </summary>
+  </ul>
+</div>
 
-<!--
-**fevzibabaoglu/fevzibabaoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>
+    <code>Computer Vision</code> •
+    <code>Deep Learning</code> •
+    <code>Image Processing</code> •
+    <code>Cryptography</code> •
+    <code>P2P Networks</code>
+  </strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,java,go" alt="Languages" height="40"/></a>
+  &emsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,git,docker" alt="Tools" height="40"/></a>
+  &emsp;
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch" alt="Frameworks" height="40"/></a>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://linkedin.com/in/fevzibabaoglu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
+</p>
